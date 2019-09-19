@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379646669210",
+    "firebase_url": "https://weatherfetch-897ce.firebaseio.com",
+    "project_id": "weatherfetch-897ce",
+    "storage_bucket": "weatherfetch-897ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379646669210:android:4d7c7df554c0c5bd9eca23",
+        "android_client_info": {
+          "package_name": "com.example.weatherfetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379646669210-ma6fjo7c9kf0qrdgqg3cnvu6u08kslb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhnaVoFf3Zu6UfGb3S6pa9Chj9ZRqEbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379646669210-ma6fjo7c9kf0qrdgqg3cnvu6u08kslb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
